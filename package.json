@@ -1,0 +1,21 @@
+{
+  "name": "dogvacay-style",
+  "version": "1.0.0",
+  "description": "Style guides for DogVacay Front End development",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dogvacay/styleguide.git"
+  },
+  "keywords": [
+    "style guide",
+    "lint",
+    "dogvacay"
+  ],
+  "bugs": {
+    "url": "https://github.com/dogvacay/styleguide/issues"
+  },
+  "homepage": "https://github.com/dogvacay/styleguide"
+}
